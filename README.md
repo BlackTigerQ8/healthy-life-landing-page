@@ -4,7 +4,7 @@
 
 VITE v4.4.9 ready in 592 ms
 
-➜ Local: http://localhost:5173/\
+➜ Local: http://localhost:5173/ \
 ➜ Network: use --host to expose\
 ➜ press h to show help
 
